@@ -1,0 +1,7 @@
+Using Twitter API to construct a social network of 4 U.S. presedential candidates accounts. 
+Used[networkx](http://networkx.github.io/) library
+to plot the links, as well as print some statistics of the resulting graph.
+
+Python Modules Used :
+	[networkx](http://networkx.github.io/) and
+	[TwitterAPI](https://github.com/geduldig/TwitterAPI)
